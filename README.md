@@ -43,6 +43,9 @@ Just drag & drop your source file to Editor.exe.
 - stb - CC0 License
 - FreeType - FreeType License
 
+# Font
+
+- [Monaspace Neon](https://github.com/githubnext/monaspace) - OFL License
 
 ## Warning
 
